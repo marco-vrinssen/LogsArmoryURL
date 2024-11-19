@@ -32,7 +32,7 @@ end
 
 -- Define the popup dialog for displaying links
 StaticPopupDialogs["PopupLinkDialog"] = {
-    text = "|cffffcc00Logs & Armory Links\n\nCopy the link below (CTRL + C)|r",
+    text = "Logs & Armory Link",
     button1 = "Close",
     timeout = 0,
     whileDead = true,
