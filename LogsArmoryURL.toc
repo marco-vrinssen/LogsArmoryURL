@@ -1,0 +1,7 @@
+## Interface: 11503
+## Title: LogsArmoryURL
+## Notes: Adds Armory and Warcraft Logs links to the player context menu.
+## Version: 1.0
+## Author: MIYANKO
+
+LogsArmoryURL.lua
